@@ -2,7 +2,7 @@
 
 **`DEV JORGE`**
 
-Me chamo Jorge Rodrigues Xavier, tenho 16 anos e Paulita. Curso o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia
+Me chamo Jorge Rodrigues Xavier, tenho 16 anos e sou Paulita. Curso o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia
 
 
 ### 🤖 Linguagens e Tecnologias
